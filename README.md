@@ -11,5 +11,4 @@
 - npm i -g npm@5.3
 - npm run build
 
-## [Демо]()
-https://energy1.github.io/webdev092017/dist
+## [Демо](https://energy1.github.io/webdev092017/dist)
